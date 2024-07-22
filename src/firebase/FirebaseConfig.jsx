@@ -7,11 +7,11 @@ const API_KEY= import.meta.env.VITE_Firebase_API_KEY;
 
 const firebaseConfig = {
   apiKey:  API_KEY,
-  authDomain: "roomquest-78c6c.firebaseapp.com",
-  projectId: "roomquest-78c6c",
-  storageBucket: "roomquest-78c6c.appspot.com",
-  messagingSenderId: "908702051959",
-  appId: "1:908702051959:web:df90343fae2afedcc42072",
+  authDomain: "home-renting-website.firebaseapp.com",
+  projectId: "home-renting-website",
+  storageBucket: "home-renting-website.appspot.com",
+  messagingSenderId: "528225971415",
+  appId: "1:528225971415:web:c07bcdef15fd16c0a1d492",
   measurementId: "G-DEPSYF19R7",
 };
 
