@@ -1,11 +1,11 @@
-# Room-Quest
+# House Renting Website
 
 <img src="src/assets/Screenshot (418).png">
 <img src="src/assets/Screenshot (419).png">
 <img src="src/assets/Screenshot (420).png">
 <img src="src/assets/Screenshot (421).png">
 
-● Developed Room Quest, a fully responsive housing and renting platform using HTML5, Tailwind CSS, 
+● Developed House Renting Website, a fully responsive housing and renting platform using HTML5, Tailwind CSS, 
 React.js, and Firebase.
 ● Implemented secure login and signup pages with proper authentication for user data protection using 
 Firebase.
@@ -16,7 +16,7 @@ enhancing transparency and trust in the platform.
 
 ## 🌐 Project Demo 
 
-To see a live demo of the project, please visit : https://room-quest.vercel.app/
+To see a live demo of the project, please visit :https://houserentingwebsite.netlify.app/
 
 ## Technologies Used
 
