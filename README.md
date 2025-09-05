@@ -16,7 +16,7 @@ enhancing transparency and trust in the platform.
 
 ## 🌐 Project Demo 
 
-To see a live demo of the project, please visit :https://houserentingwebsite.netlify.app/
+To see a live demo of the project, please visit :[https://houserentingwebsite.netlify.app/](https://house-renting-website.vercel.app/)
 
 ## Technologies Used
 
