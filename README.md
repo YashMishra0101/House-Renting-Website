@@ -1,5 +1,8 @@
 # House Renting Website
 
+## Project Note
+>This project was developed as a college-level project to practice and demonstrate core web development concepts. It focuses on building a responsive user interface, implementing authentication, managing navigation across multiple pages, and creating interactive features such as user reviews. While it is not a production-ready system, it was built as a learning-focused project.
+
 <img src="src/assets/Screenshot (418).png">
 <img src="src/assets/Screenshot (419).png">
 <img src="src/assets/Screenshot (420).png">
@@ -12,11 +15,6 @@ Firebase.
 ● Created a user-friendly, multi-page interface for seamless navigation and enhanced user experience.
 ● Implemented a review section where users can share their experiences and feedback about properties, 
 enhancing transparency and trust in the platform.
-
-
-## 🌐 Project Demo 
-
-To see a live demo of the project, please visit :[https://houserentingwebsite.netlify.app/](https://house-renting-website.vercel.app/)
 
 ## Technologies Used
 
