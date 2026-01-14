@@ -1,7 +1,7 @@
 # House Renting Website
 
 ## Project Note
->This project was developed as a college-level project to practice and demonstrate core web development concepts. It focuses on building a responsive user interface, implementing authentication, managing navigation across multiple pages, and creating interactive features such as user reviews. While it is not a production-ready system, it was built as a learning-focused project.
+This project was developed as a college-level project to practice and demonstrate core web development concepts. It focuses on building a responsive user interface, implementing authentication, managing navigation across multiple pages, and creating interactive features such as user reviews. While it is not a production-ready system, it was built as a learning-focused project.
 
 <img src="src/assets/Screenshot (418).png">
 <img src="src/assets/Screenshot (419).png">
