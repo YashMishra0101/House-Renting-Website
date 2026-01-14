@@ -6,7 +6,6 @@ This project was developed as a college-level project to practice and demonstrat
 <img src="src/assets/Screenshot (418).png">
 <img src="src/assets/Screenshot (419).png">
 <img src="src/assets/Screenshot (420).png">
-<img src="src/assets/Screenshot (421).png">
 
 ● Developed House Renting Website, a fully responsive housing and renting platform using HTML5, Tailwind CSS, 
 React.js, and Firebase.
